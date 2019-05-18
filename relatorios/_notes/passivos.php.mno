@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_query_passivos" value="name:p_id;datatype:int,name:p_num;datatype:string,name:p_nome;datatype:string,name:p_ano;datatype:string,name:p_escola;datatype:int,name:idEscola;datatype:int,name:e.nome;datatype:string,name:e.end;datatype:string" />
+	<infoitem key="UD_novo_query" value="name:id;datatype:int,name:login;datatype:string,name:senha;datatype:string,name:idEscola;datatype:int,name:idEscola;datatype:int,name:e.nome;datatype:string,name:e.end;datatype:string,name:idMatricula;datatype:int,name:m_id_aluno;datatype:int,name:m_id_turma;datatype:int,name:m_data;datatype:timestamp,name:m_ano_letivo;datatype:string,name:m_cod_matricula;datatype:int,name:situacao;datatype:string,name:escola;datatype:int" />
+</info>

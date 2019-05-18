@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_edita" value="name:p_id;datatype:int,name:p_num;datatype:string,name:p_nome;datatype:string,name:p_ano;datatype:string,name:p_escola;datatype:int" />
+	<infoitem key="UD_update" value="name:p_id;datatype:int,name:p_num;datatype:string,name:p_nome;datatype:string,name:p_ano;datatype:string,name:p_escola;datatype:int" />
+</info>

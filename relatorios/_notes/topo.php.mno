@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_query_topo" value="name:id;datatype:int,name:login;datatype:string,name:senha;datatype:string,name:idEscola;datatype:int,name:idEscola;datatype:int,name:e.nome;datatype:string,name:e.end;datatype:string" />
+</info>

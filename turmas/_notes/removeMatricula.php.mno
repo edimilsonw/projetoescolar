@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_remove" value="name:idMatricula;datatype:int,name:m_id_aluno;datatype:int,name:m_id_turma;datatype:int,name:m_data;datatype:date,name:m_ano_letivo;datatype:string,name:m_cod_matricula;datatype:int,name:situacao;datatype:string,name:escola;datatype:int,name:data_transf;datatype:date" />
+	<infoitem key="UD_Recordset1" value="name:idMatricula;datatype:int,name:m_id_aluno;datatype:int,name:m_id_turma;datatype:int,name:m_data;datatype:date,name:m_ano_letivo;datatype:string,name:m_cod_matricula;datatype:int,name:situacao;datatype:string,name:escola;datatype:int,name:data_transf;datatype:date" />
+	<infoitem key="UD_excluir" value="name:idMatricula;datatype:int,name:m_id_aluno;datatype:int,name:m_id_turma;datatype:int,name:m_data;datatype:date,name:m_ano_letivo;datatype:string,name:m_cod_matricula;datatype:int,name:situacao;datatype:string,name:escola;datatype:int,name:data_transf;datatype:date" />
+</info>

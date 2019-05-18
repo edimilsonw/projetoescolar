@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_query_add_passivo" value="name:p_id;datatype:int,name:p_num;datatype:string,name:p_nome;datatype:string,name:p_ano;datatype:string,name:p_escola;datatype:int,name:idEscola;datatype:int,name:e.nome;datatype:string,name:e.end;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:p_num;datatype:string,name:p_nome;datatype:string,name:p_ano;datatype:string,name:p_escola;datatype:int" />
+	<infoitem key="UD_query_passivo" value="name:p_num;datatype:string,name:p_nome;datatype:string,name:p_ano;datatype:string,name:p_escola;datatype:int" />
+	<infoitem key="UD_query" value="name:p_id;datatype:int,name:p_num;datatype:string,name:p_nome;datatype:string,name:p_ano;datatype:string,name:p_escola;datatype:int" />
+</info>

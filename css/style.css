@@ -1,0 +1,27 @@
+tr:hover {
+          background-color: #ffff99;
+        }
+tr:nth-child() {
+  background-color: #000;
+}
+tr:nth-child(odd) {
+  background-color: #d3d3d3;
+}
+.conteudo {
+  position: relative;
+  top: -20px;
+  left: 20px;
+  background-color: white;
+  width: 500px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}

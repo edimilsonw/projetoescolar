@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_query_relatorio" value="name:count(*);datatype:int" />
+	<infoitem key="UD_TOTAL" value="name:count(*);datatype:int" />
+	<infoitem key="UD_PRE1" value="name:count(*);datatype:int" />
+	<infoitem key="UD_PRE2" value="name:count(*);datatype:int" />
+	<infoitem key="UD_ANO1" value="name:count(*);datatype:int" />
+	<infoitem key="UD_ANO2" value="name:count(*);datatype:int" />
+	<infoitem key="UD_ANO3" value="name:count(*);datatype:int" />
+	<infoitem key="UD_ANO4" value="name:count(*);datatype:int" />
+	<infoitem key="UD_ANO5" value="name:count(*);datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:a_id;datatype:int,name:a_nome;datatype:string,name:a_nasc;datatype:date,name:a_nat;datatype:string,name:a_pai;datatype:string,name:a_mae;datatype:string,name:a_sexo;datatype:string,name:a_end;datatype:string,name:a_tel1;datatype:string,name:a_tel2;datatype:string,name:a_censo;datatype:string,name:a_sus;datatype:string,name:a_cert;datatype:string,name:a_rg;datatype:string,name:a_cpf;datatype:string,name:serie_id;datatype:int" />
+	<infoitem key="UD_ANO7" value="name:count(*);datatype:int" />
+	<infoitem key="UD_ANO6" value="name:count(*);datatype:int" />
+	<infoitem key="UD_ANO8" value="name:count(*);datatype:int" />
+	<infoitem key="UD_ANO9" value="name:count(*);datatype:int" />
+	<infoitem key="UD_query_inform" value="name:idMatricula;datatype:int,name:m_id_aluno;datatype:int,name:m_id_turma;datatype:int,name:m_data;datatype:date,name:m_ano_letivo;datatype:string,name:m_cod_matricula;datatype:int,name:situacao;datatype:string,name:escola;datatype:int,name:data_transf;datatype:date,name:idEscola;datatype:int,name:e.nome;datatype:string,name:e.end;datatype:string,name:idTurmas;datatype:int,name:serie;datatype:string,name:periodo;datatype:string,name:escola;datatype:int,name:a_id;datatype:int,name:a_nome;datatype:string,name:a_nasc;datatype:date,name:a_nat;datatype:string,name:a_pai;datatype:string,name:a_mae;datatype:string,name:a_sexo;datatype:string,name:a_end;datatype:string,name:a_tel1;datatype:string,name:a_tel2;datatype:string,name:a_censo;datatype:string,name:a_sus;datatype:string,name:a_cert;datatype:string,name:a_rg;datatype:string,name:a_cpf;datatype:string,name:serie_id;datatype:int" />
+	<infoitem key="UD_inicialPRE1" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialinicialPRE1" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialPRE2" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialinicialPRE2" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialANO1" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialinicialANO1" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialANO2" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialinicialANO2" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialANO3" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialANO4" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialANO5" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialANO6" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialANO7" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialANO8" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialANO9" value="name:count(*);datatype:int" />
+	<infoitem key="UD_apos3103PRE1" value="name:count(*);datatype:int" />
+	<infoitem key="UD_apos3103PRE2" value="name:count(*);datatype:int" />
+	<infoitem key="UD_apos3103ANO1" value="name:count(*);datatype:int" />
+	<infoitem key="UD_apos3103ANO2" value="name:count(*);datatype:int" />
+	<infoitem key="UD_apos3103ANO3" value="name:count(*);datatype:int" />
+	<infoitem key="UD_apos3103ANO4" value="name:count(*);datatype:int" />
+	<infoitem key="UD_apos3103ANO5" value="name:count(*);datatype:int" />
+	<infoitem key="UD_apos3103ANO6" value="name:count(*);datatype:int" />
+	<infoitem key="UD_apos3103ANO7" value="name:count(*);datatype:int" />
+	<infoitem key="UD_apos3103ANO8" value="name:count(*);datatype:int" />
+	<infoitem key="UD_apos3103ANO9" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialTOTAL" value="name:count(*);datatype:int" />
+	<infoitem key="UD_inicialinicialTOTAL" value="name:count(*);datatype:int" />
+</info>

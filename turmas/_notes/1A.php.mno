@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_query_alunos" value="name:idMatricula;datatype:int,name:m_id_aluno;datatype:int,name:m_id_turma;datatype:int,name:m_data;datatype:timestamp,name:m_ano_letivo;datatype:string,name:m_cod_matricula;datatype:int,name:situacao;datatype:string,name:escola;datatype:int,name:idTurmas;datatype:int,name:serie;datatype:string,name:periodo;datatype:string,name:escola;datatype:int,name:a_id;datatype:int,name:a_nome;datatype:string,name:a_nasc;datatype:date,name:a_nat;datatype:string,name:a_pai;datatype:string,name:a_mae;datatype:string,name:a_sexo;datatype:string,name:a_end;datatype:string,name:a_tel1;datatype:string,name:a_tel2;datatype:string,name:a_censo;datatype:string,name:a_sus;datatype:string,name:a_cert;datatype:string,name:a_rg;datatype:string,name:a_cpf;datatype:string,name:idEscola;datatype:int,name:e.nome;datatype:string,name:e.end;datatype:string" />
+</info>

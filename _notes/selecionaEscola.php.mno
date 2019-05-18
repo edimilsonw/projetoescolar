@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_selectEscola" value="name:id;datatype:int,name:login;datatype:string,name:senha;datatype:string,name:idEscola;datatype:int,name:idEscola;datatype:int,name:e.nome;datatype:string,name:e.end;datatype:string" />
+	<infoitem key="UD_query_usuario" value="name:id;datatype:int,name:login;datatype:string,name:senha;datatype:string,name:idEscola;datatype:int,name:idEscola;datatype:int,name:e.nome;datatype:string,name:e.end;datatype:string" />
+	<infoitem key="UD_query_dados" value="name:id;datatype:int,name:login;datatype:string,name:senha;datatype:string,name:idEscola;datatype:int,name:idEscola;datatype:int,name:e.nome;datatype:string,name:e.end;datatype:string" />
+	<infoitem key="UD_RsUser" value="name:id;datatype:int,name:login;datatype:string,name:senha;datatype:string,name:idEscola;datatype:int" />
+</info>
