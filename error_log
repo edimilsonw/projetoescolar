@@ -1,0 +1,53 @@
+[07-May-2019 23:57:10 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:57:10 UTC] PHP Warning:  mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:57:10 UTC] PHP Fatal error:  Access denied for user 'root'@'localhost' (using password: NO) in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:57:47 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:57:47 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[07-May-2019 23:57:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[07-May-2019 23:57:52 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:57:52 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[07-May-2019 23:57:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[07-May-2019 23:57:52 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/geresc/public_html/index.php on line 68
+[07-May-2019 23:57:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 78
+[07-May-2019 23:58:04 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:58:05 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:58:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[07-May-2019 23:58:19 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:58:20 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:58:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[07-May-2019 23:59:01 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:59:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[07-May-2019 23:59:03 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:59:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[07-May-2019 23:59:07 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:59:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[07-May-2019 23:59:16 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:59:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[07-May-2019 23:59:22 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:59:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[07-May-2019 23:59:22 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/geresc/public_html/index.php on line 68
+[07-May-2019 23:59:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 78
+[07-May-2019 23:59:27 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:59:27 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[07-May-2019 23:59:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[07-May-2019 23:59:31 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 23:59:31 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[07-May-2019 23:59:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[07-May-2019 23:59:31 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/geresc/public_html/index.php on line 68
+[07-May-2019 23:59:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 78
+[08-May-2019 00:03:36 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[08-May-2019 00:03:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[08-May-2019 00:03:42 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/geresc/public_html/Connections/conexao.php on line 9
+[08-May-2019 00:03:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 38
+[08-May-2019 00:03:42 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/geresc/public_html/index.php on line 68
+[08-May-2019 00:03:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/geresc/public_html/index.php:1) in /home/geresc/public_html/index.php on line 78
+[07-May-2019 21:06:28] PHP Fatal error:  Call to undefined function mysql_pconnect() in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 21:06:32] PHP Fatal error:  Call to undefined function mysql_pconnect() in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 21:06:33] PHP Fatal error:  Call to undefined function mysql_pconnect() in /home/geresc/public_html/Connections/conexao.php on line 9
+[07-May-2019 21:06:34] PHP Fatal error:  Call to undefined function mysql_pconnect() in /home/geresc/public_html/Connections/conexao.php on line 9
+[08-May-2019 00:06:48 UTC] PHP Fatal error:  Call to undefined function mysql_pconnect() in /home/geresc/public_html/Connections/conexao.php on line 9
+[08-May-2019 00:06:49 UTC] PHP Fatal error:  Call to undefined function mysql_pconnect() in /home/geresc/public_html/Connections/conexao.php on line 9
+[08-May-2019 00:07:06 UTC] PHP Fatal error:  Call to undefined function mysql_pconnect() in /home/geresc/public_html/Connections/conexao.php on line 9
+[08-May-2019 00:07:08 UTC] PHP Fatal error:  Call to undefined function mysql_pconnect() in /home/geresc/public_html/Connections/conexao.php on line 9
+[08-May-2019 00:07:09 UTC] PHP Fatal error:  Call to undefined function mysql_pconnect() in /home/geresc/public_html/Connections/conexao.php on line 9
+[08-May-2019 00:07:10 UTC] PHP Fatal error:  Call to undefined function mysql_pconnect() in /home/geresc/public_html/Connections/conexao.php on line 9
